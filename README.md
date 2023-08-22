@@ -1,4 +1,4 @@
-## Hey, sou Maria!
+## Olá, sou Maria!
 
 <div>
   Sou estudante de Engenharia de Software. Possuo um interesse especial em Desenvolvimento mobile e estou aprendendo a utilizar linguagens fundamentais para a criação de aplicativos móveis.
