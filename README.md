@@ -1,7 +1,7 @@
-## Olá, sou Maria!
+<h1> Olá, sou Maria! 💛</h1>
 
 <div>
-  Sou estudante de Engenharia de Software. Possuo um interesse especial em Desenvolvimento mobile e estou aprendendo a utilizar linguagens fundamentais para a criação de aplicativos móveis.
+  Sou estudante de Engenharia de Software, e tenho um interesse especial em desenvolvimento mobile. Atualmente, estou aprendendo a utilizar linguagens fundamentais para a criação de aplicativos móveis.
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Maria-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Maria-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
