@@ -1,12 +1,17 @@
-<h1> Olá, sou Maria! 💛</h1>
+<h1> Hello, I'm Maria! 💛</h1>
 
 <div>
-  Sou estudante de Engenharia de Software, e tenho um interesse especial em desenvolvimento mobile. Atualmente, estou aprendendo a utilizar linguagens fundamentais para a criação de aplicativos móveis.
-  <div style="display: inline_block" align="center"><br>
+   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Maria-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Maria-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Maria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
+  <p>
+   <b>Android Development Enthusiast. </b> 
+  </p>
+  <p>
+   Currently studying fundamental languages for mobile app development such as Java and Kotlin. I'm also interested in projects related to systems, particularly those involving C#. 
+  </p>
 </div>
 <br>
 <div>
@@ -15,9 +20,11 @@
 </div>
 <br>
 <div style="displa: inline_block"><br>
-  <img height="150" align="rigth" alt="Maria-gif" src="https://github.com/Mariasme/Mariasme/assets/142443801/1ee23d1a-02c7-4fb1-9963-6c90e9aea038">
+  <img width="200" height="200" align="right" src="https://github.com/Mariasme/Mariasme/assets/142443801/1ee23d1a-02c7-4fb1-9963-6c90e9aea038">
 </div>
 <br>
+  <p>You can contact-me throught: </br> </p>
+
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
