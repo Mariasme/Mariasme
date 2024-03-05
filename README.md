@@ -19,8 +19,8 @@
   <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariasme&hide_progress=true&theme=synthwave"/>
 </div>
 <br>
-<div style="displa: inline_block"><br>
-  <img width="200" height="200" align="right" src="https://github.com/Mariasme/Mariasme/assets/142443801/1ee23d1a-02c7-4fb1-9963-6c90e9aea038">
+<div style="display: inline-block"><br>
+  <img width="200" height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariasme&layout=compact">
 </div>
 <br>
   <p>You can contact-me throught: </br> </p>
