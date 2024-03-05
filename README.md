@@ -20,7 +20,7 @@
 </div>
 <br>
 <div style="display: inline-block"><br>
-  <img width="200" height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariasme&layout=compact">
+  <img width="200" height="200" align="right" src="https://i.imgur.com/goaSvHy.gif">
 </div>
 <br>
   <p>You can contact-me throught: </br> </p>
